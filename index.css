@@ -79,3 +79,10 @@ main{
 .attribution{
     margin-top: 10px;
 }
+
+@media (max-width: 768px){
+    main{
+        max-width: 384px;
+        max-height: 507px;
+    }
+}
